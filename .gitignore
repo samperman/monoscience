@@ -1,0 +1,4 @@
+*.html
+__pycache__
+doc1_files
+doc2_files
